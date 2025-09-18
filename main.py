@@ -45,9 +45,11 @@ def main():
     microrregiao_csv_generator = MicrorregiaoCSVGenerator(prepared_data_path, microrregiao_csv_path)
     microrregiao_csv_generator.generate()
 
+    pdf_content_path = "docs/relatorio_geolocalizacao.pdf"
+
     # Generate PDF content
     pdf_content_generator = PDFContentGenerator(processed_data_path, prepared_data_path, pdf_content_path)
-    pdf_content_generator.generate()
+    pdf_content_generator.generate_pdf_report()
 
     # Generate stats report
     stats_report_generator = StatsReportGenerator(prepared_data_path, stats_report_path)
