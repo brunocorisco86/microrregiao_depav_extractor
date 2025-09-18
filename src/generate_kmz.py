@@ -54,6 +54,8 @@ class KMLGenerator:
             for index, row in municipio_data.iterrows():
                 lat, lon = map(float, row["coordenadas"].split(','))
                 pnt = mun_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
+                pnt.style.iconstyle.scale = 0.9
+                pnt.style.labelstyle.scale = 0.9
                 aviarios_str = ", ".join(map(str, row['aviario']))
                 pnt.description = (
                     f"Número do Núcleo: {row['numero_nucleo']}\n"
@@ -76,9 +78,12 @@ class KMLGenerator:
                     continue
                 prop_folder = tec_folder.newfolder(name=str(proprietario))
                 proprietario_data = tecnico_data[tecnico_data["nome_proprietario"] == proprietario]
-                for index, row in proprietario_data.iterrows():
+                nucleos_unicos = proprietario_data.drop_duplicates(subset=["numero_nucleo"])
+                for index, row in nucleos_unicos.iterrows():
                     lat, lon = map(float, row["coordenadas"].split(','))
-                    pnt = prop_folder.newpoint(name=f"Aviário {row['aviario']} - Núcleo {row['numero_nucleo']}", coords=[(lon, lat)])
+                    pnt = prop_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
+                    pnt.style.iconstyle.scale = 0.9
+                    pnt.style.labelstyle.scale = 0.9
                     pnt.description = (
                         f"Número do Núcleo: {row['numero_nucleo']}\n"
                         f"Aviário: {row['aviario']}\n"
@@ -98,6 +103,8 @@ class KMLGenerator:
             for index, row in microrregiao_data.iterrows():
                 lat, lon = map(float, row["coordenadas"].split(','))
                 pnt = micro_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
+                pnt.style.iconstyle.scale = 0.9
+                pnt.style.labelstyle.scale = 0.9
                 aviarios_str = ", ".join(map(str, row['aviario']))
                 pnt.description = (
                     f"Número do Núcleo: {row['numero_nucleo']}\n"

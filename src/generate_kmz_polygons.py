@@ -13,8 +13,8 @@ class KMLPolygonGenerator:
         self.logger = get_logger(__name__)
         self.colors = {
             "EXTENSIONISTA": simplekml.Color.changealphaint(150, simplekml.Color.blue), 
-            "MUNICIPIOS": simplekml.Color.changealphaint(150, simplekml.Color.green), 
-            "MICRORREGIOES": simplekml.Color.changealphaint(150, simplekml.Color.red), 
+            "MUNICIPIOS": simplekml.Color.changealphaint(150, simplekml.Color.red), 
+            "MICRORREGIOES": simplekml.Color.changealphaint(150, simplekml.Color.green), 
             "NUCLEOS": simplekml.Color.changealphaint(150, simplekml.Color.yellow) 
         }
 
@@ -66,8 +66,9 @@ class KMLPolygonGenerator:
 
     def _create_polygons(self, kml, df, column_name, folder_name, description_prefix):
         self.logger.info(f"Creating {folder_name} polygons.")
-        folder = kml.newfolder(name=folder_name)
+        main_folder = kml.newfolder(name=folder_name)
         for item in df[column_name].dropna().unique():
+            item_folder = main_folder.newfolder(name=str(item)) # Create a subfolder for each item
             item_data = df[df[column_name] == item]
             
             coords = []
@@ -78,24 +79,24 @@ class KMLPolygonGenerator:
                 except (ValueError, AttributeError):
                     continue 
 
-                if coords:
-                    min_lon = min(c[0] for c in coords)
-                    max_lon = max(c[0] for c in coords)
-                    min_lat = min(c[1] for c in coords)
-                    max_lat = max(c[1] for c in coords)
+            if coords:
+                min_lon = min(c[0] for c in coords)
+                max_lon = max(c[0] for c in coords)
+                min_lat = min(c[1] for c in coords)
+                max_lat = max(c[1] for c in coords)
 
-                    pol = folder.newpolygon(name=str(item))
-                    pol.outerboundaryis = [
-                        (min_lon, min_lat),
-                        (max_lon, min_lat),
-                        (max_lon, max_lat),
-                        (min_lon, max_lat),
-                        (min_lon, min_lat)
-                    ]
-                    pol.style.polystyle.color = self.colors[folder_name]
-                    pol.style.polystyle.fill = 1
-                    pol.style.polystyle.outline = 1
-                    pol.description = f"{description_prefix}: {item}"
+                pol = item_folder.newpolygon(name=f"{description_prefix}: {item}") # Polygon name includes description
+                pol.outerboundaryis = [
+                    (min_lon, min_lat),
+                    (max_lon, min_lat),
+                    (max_lon, max_lat),
+                    (min_lon, max_lat),
+                    (min_lon, min_lat)
+                ]
+                pol.style.polystyle.color = self.colors[folder_name]
+                pol.style.polystyle.fill = 1
+                pol.style.polystyle.outline = 1
+                pol.description = f"{description_prefix}: {item}\nNúmero de pontos: {len(coords)}\nCoordenadas (min/max): ({min_lat}, {min_lon}) a ({max_lat}, {max_lon})"
 
     def _create_nucleo_circles(self, kml, df):
         self.logger.info("Creating NUCLEOS circles.")
@@ -111,10 +112,11 @@ class KMLPolygonGenerator:
                 circle_coords = self._generate_circle(lat, lon)
                 
                 pol = folder_nucleos.newpolygon(name=f"Núcleo {nucleo_num}")
+                pol.style.labelstyle.scale = 0.9
                 pol.outerboundaryis = circle_coords
                 pol.style.polystyle.color = self.colors["NUCLEOS"]
                 pol.style.polystyle.fill = 1
                 pol.style.polystyle.outline = 1
-                pol.description = f"Círculo de 500m ao redor do Núcleo: {nucleo_num}\nCoordenadas: {coordenadas}"
+                pol.description = f"Círculo de 500m ao redor do Núcleo: {nucleo_num}\nProprietário: {row['nome_proprietario']}\nCoordenadas: {coordenadas}"
             except (ValueError, AttributeError):
                 continue
