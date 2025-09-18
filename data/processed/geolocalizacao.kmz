@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <name>MUNICIPIOS</name>
+            <Folder id="3">
+                <name>TERRA ROXA</name>
+                <Placemark id="5">
+                    <name>Núcleo 8.0 - CHRISTIHAN WUTZKE</name>
+                    <description>Número do Núcleo: 8.0
+Aviários: 137
+Proprietário: CHRISTIHAN WUTZKE
+Coordenadas: -24.346687,-54.013184
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.346687,-54.013184</description>
+                    <Point id="4">
+                        <coordinates>-54.013184,-24.346687,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="7">
+                    <name>Núcleo 9.0 - MARLENE MANCHINE SOARES</name>
+                    <description>Número do Núcleo: 9.0
+Aviários: 166
+Proprietário: MARLENE MANCHINE SOARES
+Coordenadas: -24.188344,-54.018936
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.188344,-54.018936</description>
+                    <Point id="6">
+                        <coordinates>-54.018936,-24.188344,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="8">
+                <name>PALOTINA</name>
+                <Placemark id="10">
+                    <name>Núcleo 19.0 - ACELINO LORENZETTI</name>
+                    <description>Número do Núcleo: 19.0
+Aviários: 151, 152
+Proprietário: ACELINO LORENZETTI
+Coordenadas: -24.255222,-53.823917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.255222,-53.823917</description>
+                    <Point id="9">
+                        <coordinates>-53.823917,-24.255222,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="12">
+                    <name>Núcleo 27.0 - ANDREI BENETTI</name>
+                    <description>Número do Núcleo: 27.0
+Aviários: 143
+Proprietário: ANDREI BENETTI
+Coordenadas: -24.320833,-53.845056
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320833,-53.845056</description>
+                    <Point id="11">
+                        <coordinates>-53.845056,-24.320833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="14">
+                    <name>Núcleo 30.0 - RENAN AGOSTINI TONDO</name>
+                    <description>Número do Núcleo: 30.0
+Aviários: 160
+Proprietário: RENAN AGOSTINI TONDO
+Coordenadas: -24.261531,-53.772942
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.261531,-53.772942</description>
+                    <Point id="13">
+                        <coordinates>-53.772942,-24.261531,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="16">
+                    <name>Núcleo 33.0 - TERESA APARECIDA BUCALAO PATEL</name>
+                    <description>Número do Núcleo: 33.0
+Aviários: 162
+Proprietário: TERESA APARECIDA BUCALAO PATEL
+Coordenadas: -24.351074,-53.854158
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351074,-53.854158</description>
+                    <Point id="15">
+                        <coordinates>-53.854158,-24.351074,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="18">
+                    <name>Núcleo 46.0 - DARCI KONRAD</name>
+                    <description>Número do Núcleo: 46.0
+Aviários: 157
+Proprietário: DARCI KONRAD
+Coordenadas: -24.233083,-53.785694
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.233083,-53.785694</description>
+                    <Point id="17">
+                        <coordinates>-53.785694,-24.233083,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="20">
+                    <name>Núcleo 50.0 - DENILSO LUPATINI</name>
+                    <description>Número do Núcleo: 50.0
+Aviários: 133
+Proprietário: DENILSO LUPATINI
+Coordenadas: -24.275833,-53.917389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.275833,-53.917389</description>
+                    <Point id="19">
+                        <coordinates>-53.917389,-24.275833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="22">
+                    <name>Núcleo 51.0 - DORVALINO PASTORE</name>
+                    <description>Número do Núcleo: 51.0
+Aviários: 155
+Proprietário: DORVALINO PASTORE
+Coordenadas: -24.3055,-53.847
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.3055,-53.847</description>
+                    <Point id="21">
+                        <coordinates>-53.847,-24.3055,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="24">
+                    <name>Núcleo 55.0 - EDMILSON JOSE ZABOTT</name>
+                    <description>Número do Núcleo: 55.0
+Aviários: 124
+Proprietário: EDMILSON JOSE ZABOTT
+Coordenadas: -24.258801,-53.800703
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.258801,-53.800703</description>
+                    <Point id="23">
+                        <coordinates>-53.800703,-24.258801,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="26">
+                    <name>Núcleo 62.0 - ETELVINO BENETTI</name>
+                    <description>Número do Núcleo: 62.0
+Aviários: 123
+Proprietário: ETELVINO BENETTI
+Coordenadas: -24.295417,-53.858917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.295417,-53.858917</description>
+                    <Point id="25">
+                        <coordinates>-53.858917,-24.295417,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="28">
+                    <name>Núcleo 71.0 - IVAIR DREON</name>
+                    <description>Número do Núcleo: 71.0
+Aviários: 140
+Proprietário: IVAIR DREON
+Coordenadas: -24.350472,-53.817944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.350472,-53.817944</description>
+                    <Point id="27">
+                        <coordinates>-53.817944,-24.350472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="30">
+                    <name>Núcleo 74.0 - IVANIR LOURDES BARAZETTI MISSIO</name>
+                    <description>Número do Núcleo: 74.0
+Aviários: 141
+Proprietário: IVANIR LOURDES BARAZETTI MISSIO
+Coordenadas: -24.236611,-53.876472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.236611,-53.876472</description>
+                    <Point id="29">
+                        <coordinates>-53.876472,-24.236611,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="32">
+                    <name>Núcleo 80.0 - JUAREZ PASTORE</name>
+                    <description>Número do Núcleo: 80.0
+Aviários: 108
+Proprietário: JUAREZ PASTORE
+Coordenadas: -24.278306,-53.900639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.278306,-53.900639</description>
+                    <Point id="31">
+                        <coordinates>-53.900639,-24.278306,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="34">
+                    <name>Núcleo 82.0 - LEANDRO FEHMBERGER</name>
+                    <description>Número do Núcleo: 82.0
+Aviários: 139
+Proprietário: LEANDRO FEHMBERGER
+Coordenadas: -24.195944,-53.901917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.195944,-53.901917</description>
+                    <Point id="33">
+                        <coordinates>-53.901917,-24.195944,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="36">
+                    <name>Núcleo 88.0 - LUIS CARLOS MIOTTO</name>
+                    <description>Número do Núcleo: 88.0
+Aviários: 170
+Proprietário: LUIS CARLOS MIOTTO
+Coordenadas: -24.309889,-53.861556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.309889,-53.861556</description>
+                    <Point id="35">
+                        <coordinates>-53.861556,-24.309889,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="38">
+                    <name>Núcleo 92.0 - MARIA VIGNE CENTENARO</name>
+                    <description>Número do Núcleo: 92.0
+Aviários: 156
+Proprietário: MARIA VIGNE CENTENARO
+Coordenadas: -24.21325,-53.888389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.21325,-53.888389</description>
+                    <Point id="37">
+                        <coordinates>-53.888389,-24.21325,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="40">
+                    <name>Núcleo 95.0 - MARLI RICHTER KAPPES</name>
+                    <description>Número do Núcleo: 95.0
+Aviários: 150
+Proprietário: MARLI RICHTER KAPPES
+Coordenadas: -24.342194,-53.824333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.342194,-53.824333</description>
+                    <Point id="39">
+                        <coordinates>-53.824333,-24.342194,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="42">
+                    <name>Núcleo 96.0 - MERCIO FRANCISCO PALUDO</name>
+                    <description>Número do Núcleo: 96.0
+Aviários: 110, 111
+Proprietário: MERCIO FRANCISCO PALUDO
+Coordenadas: -24.306833,-53.793417
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.306833,-53.793417</description>
+                    <Point id="41">
+                        <coordinates>-53.793417,-24.306833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="44">
+                    <name>Núcleo 101.0 - NEODIR PALUDO</name>
+                    <description>Número do Núcleo: 101.0
+Aviários: 154
+Proprietário: NEODIR PALUDO
+Coordenadas: -24.213806,-53.842556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.213806,-53.842556</description>
+                    <Point id="43">
+                        <coordinates>-53.842556,-24.213806,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="46">
+                    <name>Núcleo 106.0 - PAULO CEZAR HOFFMANN</name>
+                    <description>Número do Núcleo: 106.0
+Aviários: 102
+Proprietário: PAULO CEZAR HOFFMANN
+Coordenadas: -24.351361,-53.814306
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351361,-53.814306</description>
+                    <Point id="45">
+                        <coordinates>-53.814306,-24.351361,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="48">
+                    <name>Núcleo 111.0 - RONALDO AUGUSTO IORIS</name>
+                    <description>Número do Núcleo: 111.0
+Aviários: 147, 148
+Proprietário: RONALDO AUGUSTO IORIS
+Coordenadas: -24.35225,-53.709472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.35225,-53.709472</description>
+                    <Point id="47">
+                        <coordinates>-53.709472,-24.35225,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="50">
+                    <name>Núcleo 118.0 - FERNANDA BASSO BERTOLDI</name>
+                    <description>Número do Núcleo: 118.0
+Aviários: 112
+Proprietário: FERNANDA BASSO BERTOLDI
+Coordenadas: -24.218307,-53.776036
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218307,-53.776036</description>
+                    <Point id="49">
+                        <coordinates>-53.776036,-24.218307,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="52">
+                    <name>Núcleo 121.0 - VALDECIR ANTONIO BENDER</name>
+                    <description>Número do Núcleo: 121.0
+Aviários: 164
+Proprietário: VALDECIR ANTONIO BENDER
+Coordenadas: -24.268972,-53.760889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.268972,-53.760889</description>
+                    <Point id="51">
+                        <coordinates>-53.760889,-24.268972,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="54">
+                    <name>Núcleo 122.0 - VALDECIR PATEL</name>
+                    <description>Número do Núcleo: 122.0
+Aviários: 158
+Proprietário: VALDECIR PATEL
+Coordenadas: -24.237222,-53.863083
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.237222,-53.863083</description>
+                    <Point id="53">
+                        <coordinates>-53.863083,-24.237222,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="56">
+                    <name>Núcleo 123.0 - IVETE CANEVESE HENZ</name>
+                    <description>Número do Núcleo: 123.0
+Aviários: 115
+Proprietário: IVETE CANEVESE HENZ
+Coordenadas: -24.218472,-53.825333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218472,-53.825333</description>
+                    <Point id="55">
+                        <coordinates>-53.825333,-24.218472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="57">
+                <name>NOVA SANTA ROSA</name>
+                <Placemark id="59">
+                    <name>Núcleo 142.0 - PEDRO INACIO KUNZLER</name>
+                    <description>Número do Núcleo: 142.0
+Aviários: 131
+Proprietário: PEDRO INACIO KUNZLER
+Coordenadas: -24.37092,-53.90863
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.37092,-53.90863</description>
+                    <Point id="58">
+                        <coordinates>-53.90863,-24.37092,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="61">
+                    <name>Núcleo 145.0 - SANDRO ANDRE RICHTER</name>
+                    <description>Número do Núcleo: 145.0
+Aviários: 142
+Proprietário: SANDRO ANDRE RICHTER
+Coordenadas: -24.414139,-53.977042
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.414139,-53.977042</description>
+                    <Point id="60">
+                        <coordinates>-53.977042,-24.414139,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="62">
+                <name>FRANCISCO ALVES</name>
+                <Placemark id="64">
+                    <name>Núcleo 175.0 - MARIA ANTONIA DRUZIANI SEBRIAN</name>
+                    <description>Número do Núcleo: 175.0
+Aviários: 136
+Proprietário: MARIA ANTONIA DRUZIANI SEBRIAN
+Coordenadas: -24.141556,-53.855
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.141556,-53.855</description>
+                    <Point id="63">
+                        <coordinates>-53.855,-24.141556,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="66">
+                    <name>Núcleo 176.0 - VILSON LUIZ PEDRINI</name>
+                    <description>Número do Núcleo: 176.0
+Aviários: 153
+Proprietário: VILSON LUIZ PEDRINI
+Coordenadas: -24.155667,-53.864389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.155667,-53.864389</description>
+                    <Point id="65">
+                        <coordinates>-53.864389,-24.155667,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="68">
+                    <name>Núcleo 177.0 - DIRCE MARIA MARIANI CLIVATTI</name>
+                    <description>Número do Núcleo: 177.0
+Aviários: 144, 145
+Proprietário: DIRCE MARIA MARIANI CLIVATTI
+Coordenadas: -24.089861,-53.835583
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.089861,-53.835583</description>
+                    <Point id="67">
+                        <coordinates>-53.835583,-24.089861,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="69">
+                <name>ASSIS CHATEAUBRIAND</name>
+                <Placemark id="71">
+                    <name>Núcleo 186.0 - CLARICE SALETE LORENZINI</name>
+                    <description>Número do Núcleo: 186.0
+Aviários: 122
+Proprietário: CLARICE SALETE LORENZINI
+Coordenadas: -24.326361,-53.662333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.326361,-53.662333</description>
+                    <Point id="70">
+                        <coordinates>-53.662333,-24.326361,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="73">
+                    <name>Núcleo 189.0 - ALBINO DALMOLIN FILHO</name>
+                    <description>Número do Núcleo: 189.0
+Aviários: 121
+Proprietário: ALBINO DALMOLIN FILHO
+Coordenadas: -24.328511,-53.682092
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.328511,-53.682092</description>
+                    <Point id="72">
+                        <coordinates>-53.682092,-24.328511,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="75">
+                    <name>Núcleo 193.0 - AMAURI EGEA DA COSTA</name>
+                    <description>Número do Núcleo: 193.0
+Aviários: 117
+Proprietário: AMAURI EGEA DA COSTA
+Coordenadas: -24.490472,-53.518889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.490472,-53.518889</description>
+                    <Point id="74">
+                        <coordinates>-53.518889,-24.490472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="77">
+                    <name>Núcleo 203.0 - ADRIANO CEZAR BARBOSA</name>
+                    <description>Número do Núcleo: 203.0
+Aviários: 161
+Proprietário: ADRIANO CEZAR BARBOSA
+Coordenadas: -24.498139,-53.569028
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.498139,-53.569028</description>
+                    <Point id="76">
+                        <coordinates>-53.569028,-24.498139,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="79">
+                    <name>Núcleo 204.0 - CASTILLO LUIZ HENDGES</name>
+                    <description>Número do Núcleo: 204.0
+Aviários: 129, 130
+Proprietário: CASTILLO LUIZ HENDGES
+Coordenadas: -24.320417,-53.66775
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320417,-53.66775</description>
+                    <Point id="78">
+                        <coordinates>-53.66775,-24.320417,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="81">
+                    <name>Núcleo 211.0 - CLELIO ARGENTON</name>
+                    <description>Número do Núcleo: 211.0
+Aviários: 107
+Proprietário: CLELIO ARGENTON
+Coordenadas: -24.4163,-53.544539
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.4163,-53.544539</description>
+                    <Point id="80">
+                        <coordinates>-53.544539,-24.4163,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="83">
+                    <name>Núcleo 237.0 - JOSE CARLOS PIRES DOS SANTOS</name>
+                    <description>Número do Núcleo: 237.0
+Aviários: 113
+Proprietário: JOSE CARLOS PIRES DOS SANTOS
+Coordenadas: -24.319144,-53.6737
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.319144,-53.6737</description>
+                    <Point id="82">
+                        <coordinates>-53.6737,-24.319144,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="85">
+                    <name>Núcleo 252.0 - APARECIDO ROBERTO DIOTTO</name>
+                    <description>Número do Núcleo: 252.0
+Aviários: 118
+Proprietário: APARECIDO ROBERTO DIOTTO
+Coordenadas: -24.451972,-53.49175
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.451972,-53.49175</description>
+                    <Point id="84">
+                        <coordinates>-53.49175,-24.451972,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="87">
+                    <name>Núcleo 256.0 - CLEIFSON FERRARI GROSS</name>
+                    <description>Número do Núcleo: 256.0
+Aviários: 163, 168
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.388028,-53.490944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.388028,-53.490944</description>
+                    <Point id="86">
+                        <coordinates>-53.490944,-24.388028,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="89">
+                    <name>Núcleo 268.0 - JEAN CARLOS BOTTINI</name>
+                    <description>Número do Núcleo: 268.0
+Aviários: 120
+Proprietário: JEAN CARLOS BOTTINI
+Coordenadas: -24.32438,-53.68987
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.32438,-53.68987</description>
+                    <Point id="88">
+                        <coordinates>-53.68987,-24.32438,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="91">
+                    <name>Núcleo 271.0 - RODRIGO ZOTESSO</name>
+                    <description>Número do Núcleo: 271.0
+Aviários: 134
+Proprietário: RODRIGO ZOTESSO
+Coordenadas: -24.496964,-53.676017
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.496964,-53.676017</description>
+                    <Point id="90">
+                        <coordinates>-53.676017,-24.496964,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="93">
+                    <name>Núcleo 275.0 - SEBASTIAO DAL BOIT</name>
+                    <description>Número do Núcleo: 275.0
+Aviários: 135
+Proprietário: SEBASTIAO DAL BOIT
+Coordenadas: -24.536028,-53.589139
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.536028,-53.589139</description>
+                    <Point id="92">
+                        <coordinates>-53.589139,-24.536028,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="95">
+                    <name>Núcleo 282.0 - CLEIFSON FERRARI GROSS</name>
+                    <description>Número do Núcleo: 282.0
+Aviários: 125, 126
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.481769,-53.676989
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.481769,-53.676989</description>
+                    <Point id="94">
+                        <coordinates>-53.676989,-24.481769,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="97">
+                    <name>Núcleo 343.0 - NICOLA CARMONA CABRERA</name>
+                    <description>Número do Núcleo: 343.0
+Aviários: 114
+Proprietário: NICOLA CARMONA CABRERA
+Coordenadas: -24.411389,-53.5475
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.411389,-53.5475</description>
+                    <Point id="96">
+                        <coordinates>-53.5475,-24.411389,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="98">
+                <name>MARIPA</name>
+                <Placemark id="100">
+                    <name>Núcleo 287.0 - ADEMIR SCHREIBER</name>
+                    <description>Número do Núcleo: 287.0
+Aviários: 165
+Proprietário: ADEMIR SCHREIBER
+Coordenadas: -24.442639,-53.800639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.442639,-53.800639</description>
+                    <Point id="99">
+                        <coordinates>-53.800639,-24.442639,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="102">
+                    <name>Núcleo 289.0 - ADIR MARLOW</name>
+                    <description>Número do Núcleo: 289.0
+Aviários: 103
+Proprietário: ADIR MARLOW
+Coordenadas: -24.482931,-53.764711
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.482931,-53.764711</description>
+                    <Point id="101">
+                        <coordinates>-53.764711,-24.482931,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="104">
+                    <name>Núcleo 293.0 - BERNARDO MARIO PASTORE</name>
+                    <description>Número do Núcleo: 293.0
+Aviários: 104
+Proprietário: BERNARDO MARIO PASTORE
+Coordenadas: -24.450853,-53.785362
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.450853,-53.785362</description>
+                    <Point id="103">
+                        <coordinates>-53.785362,-24.450853,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="106">
+                    <name>Núcleo 305.0 - HEBE CRISTIANE SCHWARZ WARMLING</name>
+                    <description>Número do Núcleo: 305.0
+Aviários: 149
+Proprietário: HEBE CRISTIANE SCHWARZ WARMLING
+Coordenadas: -24.413167,-53.801389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.413167,-53.801389</description>
+                    <Point id="105">
+                        <coordinates>-53.801389,-24.413167,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="108">
+                    <name>Núcleo 310.0 - JOSE ELIAS PANDINI</name>
+                    <description>Número do Núcleo: 310.0
+Aviários: 101
+Proprietário: JOSE ELIAS PANDINI
+Coordenadas: -24.519303,-53.735319
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.519303,-53.735319</description>
+                    <Point id="107">
+                        <coordinates>-53.735319,-24.519303,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="110">
+                    <name>Núcleo 312.0 - LEVI MARTINHO HARTWIG</name>
+                    <description>Número do Núcleo: 312.0
+Aviários: 105
+Proprietário: LEVI MARTINHO HARTWIG
+Coordenadas: -24.410856,-53.791825
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.410856,-53.791825</description>
+                    <Point id="109">
+                        <coordinates>-53.791825,-24.410856,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="112">
+                    <name>Núcleo 313.0 - MARTIM ROGERIO REINKE</name>
+                    <description>Número do Núcleo: 313.0
+Aviários: 138
+Proprietário: MARTIM ROGERIO REINKE
+Coordenadas: -24.385194,-53.823611
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.385194,-53.823611</description>
+                    <Point id="111">
+                        <coordinates>-53.823611,-24.385194,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="114">
+                    <name>Núcleo 326.0 - JAIR VANDERLEI SEIBOTH</name>
+                    <description>Número do Núcleo: 326.0
+Aviários: 132
+Proprietário: JAIR VANDERLEI SEIBOTH
+Coordenadas: -24.466668,-53.889904
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.466668,-53.889904</description>
+                    <Point id="113">
+                        <coordinates>-53.889904,-24.466668,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="116">
+                    <name>Núcleo 327.0 - SEDIANE FATIMA GASPARETTO</name>
+                    <description>Número do Núcleo: 327.0
+Aviários: 167
+Proprietário: SEDIANE FATIMA GASPARETTO
+Coordenadas: -24.486633,-53.792675
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.486633,-53.792675</description>
+                    <Point id="115">
+                        <coordinates>-53.792675,-24.486633,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="118">
+                    <name>Núcleo 402.0 - MARCELI NEIVA MOELLER LAUFER</name>
+                    <description>Número do Núcleo: 402.0
+Aviários: 159
+Proprietário: MARCELI NEIVA MOELLER LAUFER
+Coordenadas: -24.370833,-53.7505
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.370833,-53.7505</description>
+                    <Point id="117">
+                        <coordinates>-53.7505,-24.370833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+        </Folder>
+        <Folder id="119">
+            <name>EXTENSIONISTA</name>
+            <Folder id="120">
+                <name>EVANDRO</name>
+                <Folder id="121">
+                    <name>JOSE ELIAS PANDINI</name>
+                    <Placemark id="123">
+                        <name>Aviário 101 - Núcleo 310.0</name>
+                        <description>Número do Núcleo: 310.0
+Aviário: 101
+Proprietário: JOSE ELIAS PANDINI
+Coordenadas: -24.519303,-53.735319
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.519303,-53.735319</description>
+                        <Point id="122">
+                            <coordinates>-53.735319,-24.519303,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="124">
+                    <name>PAULO CEZAR HOFFMANN</name>
+                    <Placemark id="126">
+                        <name>Aviário 102 - Núcleo 106.0</name>
+                        <description>Número do Núcleo: 106.0
+Aviário: 102
+Proprietário: PAULO CEZAR HOFFMANN
+Coordenadas: -24.351361,-53.814306
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351361,-53.814306</description>
+                        <Point id="125">
+                            <coordinates>-53.814306,-24.351361,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="127">
+                <name>LETICIA</name>
+                <Folder id="128">
+                    <name>ADIR MARLOW</name>
+                    <Placemark id="130">
+                        <name>Aviário 103 - Núcleo 289.0</name>
+                        <description>Número do Núcleo: 289.0
+Aviário: 103
+Proprietário: ADIR MARLOW
+Coordenadas: -24.482931,-53.764711
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.482931,-53.764711</description>
+                        <Point id="129">
+                            <coordinates>-53.764711,-24.482931,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="131">
+                    <name>BERNARDO MARIO PASTORE</name>
+                    <Placemark id="133">
+                        <name>Aviário 104 - Núcleo 293.0</name>
+                        <description>Número do Núcleo: 293.0
+Aviário: 104
+Proprietário: BERNARDO MARIO PASTORE
+Coordenadas: -24.450853,-53.785362
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.450853,-53.785362</description>
+                        <Point id="132">
+                            <coordinates>-53.785362,-24.450853,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="134">
+                    <name>ADEMIR SCHREIBER</name>
+                    <Placemark id="136">
+                        <name>Aviário 165 - Núcleo 287.0</name>
+                        <description>Número do Núcleo: 287.0
+Aviário: 165
+Proprietário: ADEMIR SCHREIBER
+Coordenadas: -24.442639,-53.800639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.442639,-53.800639</description>
+                        <Point id="135">
+                            <coordinates>-53.800639,-24.442639,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="137">
+                    <name>SEDIANE FATIMA GASPARETTO</name>
+                    <Placemark id="139">
+                        <name>Aviário 167 - Núcleo 327.0</name>
+                        <description>Número do Núcleo: 327.0
+Aviário: 167
+Proprietário: SEDIANE FATIMA GASPARETTO
+Coordenadas: -24.486633,-53.792675
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.486633,-53.792675</description>
+                        <Point id="138">
+                            <coordinates>-53.792675,-24.486633,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="140">
+                <name>MARLI</name>
+                <Folder id="141">
+                    <name>LEVI MARTINHO HARTWIG</name>
+                    <Placemark id="143">
+                        <name>Aviário 105 - Núcleo 312.0</name>
+                        <description>Número do Núcleo: 312.0
+Aviário: 105
+Proprietário: LEVI MARTINHO HARTWIG
+Coordenadas: -24.410856,-53.791825
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.410856,-53.791825</description>
+                        <Point id="142">
+                            <coordinates>-53.791825,-24.410856,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="144">
+                    <name>JAIR VANDERLEI SEIBOTH</name>
+                    <Placemark id="146">
+                        <name>Aviário 132 - Núcleo 326.0</name>
+                        <description>Número do Núcleo: 326.0
+Aviário: 132
+Proprietário: JAIR VANDERLEI SEIBOTH
+Coordenadas: -24.466668,-53.889904
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.466668,-53.889904</description>
+                        <Point id="145">
+                            <coordinates>-53.889904,-24.466668,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="147">
+                    <name>MARTIM ROGERIO REINKE</name>
+                    <Placemark id="149">
+                        <name>Aviário 138 - Núcleo 313.0</name>
+                        <description>Número do Núcleo: 313.0
+Aviário: 138
+Proprietário: MARTIM ROGERIO REINKE
+Coordenadas: -24.385194,-53.823611
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.385194,-53.823611</description>
+                        <Point id="148">
+                            <coordinates>-53.823611,-24.385194,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="150">
+                    <name>IVAIR DREON</name>
+                    <Placemark id="152">
+                        <name>Aviário 140 - Núcleo 71.0</name>
+                        <description>Número do Núcleo: 71.0
+Aviário: 140
+Proprietário: IVAIR DREON
+Coordenadas: -24.350472,-53.817944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.350472,-53.817944</description>
+                        <Point id="151">
+                            <coordinates>-53.817944,-24.350472,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="153">
+                    <name>HEBE CRISTIANE SCHWARZ WARMLING</name>
+                    <Placemark id="155">
+                        <name>Aviário 149 - Núcleo 305.0</name>
+                        <description>Número do Núcleo: 305.0
+Aviário: 149
+Proprietário: HEBE CRISTIANE SCHWARZ WARMLING
+Coordenadas: -24.413167,-53.801389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.413167,-53.801389</description>
+                        <Point id="154">
+                            <coordinates>-53.801389,-24.413167,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="156">
+                    <name>MARLI RICHTER KAPPES</name>
+                    <Placemark id="158">
+                        <name>Aviário 150 - Núcleo 95.0</name>
+                        <description>Número do Núcleo: 95.0
+Aviário: 150
+Proprietário: MARLI RICHTER KAPPES
+Coordenadas: -24.342194,-53.824333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.342194,-53.824333</description>
+                        <Point id="157">
+                            <coordinates>-53.824333,-24.342194,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="159">
+                <name>RODRIGO</name>
+                <Folder id="160">
+                    <name>CLELIO ARGENTON</name>
+                    <Placemark id="162">
+                        <name>Aviário 107 - Núcleo 211.0</name>
+                        <description>Número do Núcleo: 211.0
+Aviário: 107
+Proprietário: CLELIO ARGENTON
+Coordenadas: -24.4163,-53.544539
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.4163,-53.544539</description>
+                        <Point id="161">
+                            <coordinates>-53.544539,-24.4163,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="163">
+                <name>JESSIANE</name>
+                <Folder id="164">
+                    <name>JUAREZ PASTORE</name>
+                    <Placemark id="166">
+                        <name>Aviário 108 - Núcleo 80.0</name>
+                        <description>Número do Núcleo: 80.0
+Aviário: 108
+Proprietário: JUAREZ PASTORE
+Coordenadas: -24.278306,-53.900639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.278306,-53.900639</description>
+                        <Point id="165">
+                            <coordinates>-53.900639,-24.278306,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="167">
+                    <name>JOSE CARLOS PIRES DOS SANTOS</name>
+                    <Placemark id="169">
+                        <name>Aviário 113 - Núcleo 237.0</name>
+                        <description>Número do Núcleo: 237.0
+Aviário: 113
+Proprietário: JOSE CARLOS PIRES DOS SANTOS
+Coordenadas: -24.319144,-53.6737
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.319144,-53.6737</description>
+                        <Point id="168">
+                            <coordinates>-53.6737,-24.319144,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="170">
+                    <name>ALBINO DALMOLIN FILHO</name>
+                    <Placemark id="172">
+                        <name>Aviário 121 - Núcleo 189.0</name>
+                        <description>Número do Núcleo: 189.0
+Aviário: 121
+Proprietário: ALBINO DALMOLIN FILHO
+Coordenadas: -24.328511,-53.682092
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.328511,-53.682092</description>
+                        <Point id="171">
+                            <coordinates>-53.682092,-24.328511,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="173">
+                    <name>CLARICE SALETE LORENZINI</name>
+                    <Placemark id="175">
+                        <name>Aviário 122 - Núcleo 186.0</name>
+                        <description>Número do Núcleo: 186.0
+Aviário: 122
+Proprietário: CLARICE SALETE LORENZINI
+Coordenadas: -24.326361,-53.662333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.326361,-53.662333</description>
+                        <Point id="174">
+                            <coordinates>-53.662333,-24.326361,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="176">
+                    <name>CASTILLO LUIZ HENDGES</name>
+                    <Placemark id="178">
+                        <name>Aviário 129 - Núcleo 204.0</name>
+                        <description>Número do Núcleo: 204.0
+Aviário: 129
+Proprietário: CASTILLO LUIZ HENDGES
+Coordenadas: -24.320417,-53.66775
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320417,-53.66775</description>
+                        <Point id="177">
+                            <coordinates>-53.66775,-24.320417,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="180">
+                        <name>Aviário 130 - Núcleo 204.0</name>
+                        <description>Número do Núcleo: 204.0
+Aviário: 130
+Proprietário: CASTILLO LUIZ HENDGES
+Coordenadas: -24.320778,-53.667611
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320778,-53.667611</description>
+                        <Point id="179">
+                            <coordinates>-53.667611,-24.320778,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="181">
+                    <name>DENILSO LUPATINI</name>
+                    <Placemark id="183">
+                        <name>Aviário 133 - Núcleo 50.0</name>
+                        <description>Número do Núcleo: 50.0
+Aviário: 133
+Proprietário: DENILSO LUPATINI
+Coordenadas: -24.275833,-53.917389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.275833,-53.917389</description>
+                        <Point id="182">
+                            <coordinates>-53.917389,-24.275833,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="184">
+                    <name>RENAN AGOSTINI TONDO</name>
+                    <Placemark id="186">
+                        <name>Aviário 160 - Núcleo 30.0</name>
+                        <description>Número do Núcleo: 30.0
+Aviário: 160
+Proprietário: RENAN AGOSTINI TONDO
+Coordenadas: -24.261531,-53.772942
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.261531,-53.772942</description>
+                        <Point id="185">
+                            <coordinates>-53.772942,-24.261531,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="187">
+                    <name>VALDECIR ANTONIO BENDER</name>
+                    <Placemark id="189">
+                        <name>Aviário 164 - Núcleo 121.0</name>
+                        <description>Número do Núcleo: 121.0
+Aviário: 164
+Proprietário: VALDECIR ANTONIO BENDER
+Coordenadas: -24.268972,-53.760889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.268972,-53.760889</description>
+                        <Point id="188">
+                            <coordinates>-53.760889,-24.268972,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="190">
+                <name>INAIARA</name>
+                <Folder id="191">
+                    <name>MERCIO FRANCISCO PALUDO</name>
+                    <Placemark id="193">
+                        <name>Aviário 110 - Núcleo 96.0</name>
+                        <description>Número do Núcleo: 96.0
+Aviário: 110
+Proprietário: MERCIO FRANCISCO PALUDO
+Coordenadas: -24.306833,-53.793417
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.306833,-53.793417</description>
+                        <Point id="192">
+                            <coordinates>-53.793417,-24.306833,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="195">
+                        <name>Aviário 111 - Núcleo 96.0</name>
+                        <description>Número do Núcleo: 96.0
+Aviário: 111
+Proprietário: MERCIO FRANCISCO PALUDO
+Coordenadas: -24.306639,-53.793389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.306639,-53.793389</description>
+                        <Point id="194">
+                            <coordinates>-53.793389,-24.306639,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="196">
+                    <name>FERNANDA BASSO BERTOLDI</name>
+                    <Placemark id="198">
+                        <name>Aviário 112 - Núcleo 118.0</name>
+                        <description>Número do Núcleo: 118.0
+Aviário: 112
+Proprietário: FERNANDA BASSO BERTOLDI
+Coordenadas: -24.218307,-53.776036
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218307,-53.776036</description>
+                        <Point id="197">
+                            <coordinates>-53.776036,-24.218307,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="199">
+                    <name>ETELVINO BENETTI</name>
+                    <Placemark id="201">
+                        <name>Aviário 123 - Núcleo 62.0</name>
+                        <description>Número do Núcleo: 62.0
+Aviário: 123
+Proprietário: ETELVINO BENETTI
+Coordenadas: -24.295417,-53.858917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.295417,-53.858917</description>
+                        <Point id="200">
+                            <coordinates>-53.858917,-24.295417,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="202">
+                    <name>ACELINO LORENZETTI</name>
+                    <Placemark id="204">
+                        <name>Aviário 151 - Núcleo 19.0</name>
+                        <description>Número do Núcleo: 19.0
+Aviário: 151
+Proprietário: ACELINO LORENZETTI
+Coordenadas: -24.255222,-53.823917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.255222,-53.823917</description>
+                        <Point id="203">
+                            <coordinates>-53.823917,-24.255222,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="206">
+                        <name>Aviário 152 - Núcleo 19.0</name>
+                        <description>Número do Núcleo: 19.0
+Aviário: 152
+Proprietário: ACELINO LORENZETTI
+Coordenadas: -24.255222,-53.823917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.255222,-53.823917</description>
+                        <Point id="205">
+                            <coordinates>-53.823917,-24.255222,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="207">
+                <name>BRUNO</name>
+                <Folder id="208">
+                    <name>NICOLA CARMONA CABRERA</name>
+                    <Placemark id="210">
+                        <name>Aviário 114 - Núcleo 343.0</name>
+                        <description>Número do Núcleo: 343.0
+Aviário: 114
+Proprietário: NICOLA CARMONA CABRERA
+Coordenadas: -24.411389,-53.5475
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.411389,-53.5475</description>
+                        <Point id="209">
+                            <coordinates>-53.5475,-24.411389,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="211">
+                <name>ARION</name>
+                <Folder id="212">
+                    <name>IVETE CANEVESE HENZ</name>
+                    <Placemark id="214">
+                        <name>Aviário 115 - Núcleo 123.0</name>
+                        <description>Número do Núcleo: 123.0
+Aviário: 115
+Proprietário: IVETE CANEVESE HENZ
+Coordenadas: -24.218472,-53.825333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218472,-53.825333</description>
+                        <Point id="213">
+                            <coordinates>-53.825333,-24.218472,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="215">
+                    <name>EDMILSON JOSE ZABOTT</name>
+                    <Placemark id="217">
+                        <name>Aviário 124 - Núcleo 55.0</name>
+                        <description>Número do Núcleo: 55.0
+Aviário: 124
+Proprietário: EDMILSON JOSE ZABOTT
+Coordenadas: -24.258801,-53.800703
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.258801,-53.800703</description>
+                        <Point id="216">
+                            <coordinates>-53.800703,-24.258801,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="218">
+                    <name>NEODIR PALUDO</name>
+                    <Placemark id="220">
+                        <name>Aviário 154 - Núcleo 101.0</name>
+                        <description>Número do Núcleo: 101.0
+Aviário: 154
+Proprietário: NEODIR PALUDO
+Coordenadas: -24.213806,-53.842556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.213806,-53.842556</description>
+                        <Point id="219">
+                            <coordinates>-53.842556,-24.213806,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="221">
+                    <name>DARCI KONRAD</name>
+                    <Placemark id="223">
+                        <name>Aviário 157 - Núcleo 46.0</name>
+                        <description>Número do Núcleo: 46.0
+Aviário: 157
+Proprietário: DARCI KONRAD
+Coordenadas: -24.233083,-53.785694
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.233083,-53.785694</description>
+                        <Point id="222">
+                            <coordinates>-53.785694,-24.233083,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="224">
+                <name>MURILO</name>
+                <Folder id="225">
+                    <name>AMAURI EGEA DA COSTA</name>
+                    <Placemark id="227">
+                        <name>Aviário 117 - Núcleo 193.0</name>
+                        <description>Número do Núcleo: 193.0
+Aviário: 117
+Proprietário: AMAURI EGEA DA COSTA
+Coordenadas: -24.490472,-53.518889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.490472,-53.518889</description>
+                        <Point id="226">
+                            <coordinates>-53.518889,-24.490472,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="228">
+                    <name>JEAN CARLOS BOTTINI</name>
+                    <Placemark id="230">
+                        <name>Aviário 120 - Núcleo 268.0</name>
+                        <description>Número do Núcleo: 268.0
+Aviário: 120
+Proprietário: JEAN CARLOS BOTTINI
+Coordenadas: -24.32438,-53.68987
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.32438,-53.68987</description>
+                        <Point id="229">
+                            <coordinates>-53.68987,-24.32438,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="231">
+                    <name>VALDECIR PATEL</name>
+                    <Placemark id="233">
+                        <name>Aviário 158 - Núcleo 122.0</name>
+                        <description>Número do Núcleo: 122.0
+Aviário: 158
+Proprietário: VALDECIR PATEL
+Coordenadas: -24.237222,-53.863083
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.237222,-53.863083</description>
+                        <Point id="232">
+                            <coordinates>-53.863083,-24.237222,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="234">
+                <name>MARIA</name>
+                <Folder id="235">
+                    <name>APARECIDO ROBERTO DIOTTO</name>
+                    <Placemark id="237">
+                        <name>Aviário 118 - Núcleo 252.0</name>
+                        <description>Número do Núcleo: 252.0
+Aviário: 118
+Proprietário: APARECIDO ROBERTO DIOTTO
+Coordenadas: -24.451972,-53.49175
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.451972,-53.49175</description>
+                        <Point id="236">
+                            <coordinates>-53.49175,-24.451972,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="238">
+                    <name>CLEIFSON FERRARI GROSS</name>
+                    <Placemark id="240">
+                        <name>Aviário 163 - Núcleo 256.0</name>
+                        <description>Número do Núcleo: 256.0
+Aviário: 163
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.388028,-53.490944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.388028,-53.490944</description>
+                        <Point id="239">
+                            <coordinates>-53.490944,-24.388028,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="242">
+                        <name>Aviário 168 - Núcleo 256.0</name>
+                        <description>Número do Núcleo: 256.0
+Aviário: 168
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.388222,-53.490833
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.388222,-53.490833</description>
+                        <Point id="241">
+                            <coordinates>-53.490833,-24.388222,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="243">
+                <name>EDINAN</name>
+                <Folder id="244">
+                    <name>CLEIFSON FERRARI GROSS</name>
+                    <Placemark id="246">
+                        <name>Aviário 125 - Núcleo 282.0</name>
+                        <description>Número do Núcleo: 282.0
+Aviário: 125
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.481769,-53.676989
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.481769,-53.676989</description>
+                        <Point id="245">
+                            <coordinates>-53.676989,-24.481769,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="248">
+                        <name>Aviário 126 - Núcleo 282.0</name>
+                        <description>Número do Núcleo: 282.0
+Aviário: 126
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.481728,-53.676622
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.481728,-53.676622</description>
+                        <Point id="247">
+                            <coordinates>-53.676622,-24.481728,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="249">
+                    <name>RODRIGO ZOTESSO</name>
+                    <Placemark id="251">
+                        <name>Aviário 134 - Núcleo 271.0</name>
+                        <description>Número do Núcleo: 271.0
+Aviário: 134
+Proprietário: RODRIGO ZOTESSO
+Coordenadas: -24.496964,-53.676017
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.496964,-53.676017</description>
+                        <Point id="250">
+                            <coordinates>-53.676017,-24.496964,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="252">
+                <name>DEBORA</name>
+                <Folder id="253">
+                    <name>PEDRO INACIO KUNZLER</name>
+                    <Placemark id="255">
+                        <name>Aviário 131 - Núcleo 142.0</name>
+                        <description>Número do Núcleo: 142.0
+Aviário: 131
+Proprietário: PEDRO INACIO KUNZLER
+Coordenadas: -24.37092,-53.90863
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.37092,-53.90863</description>
+                        <Point id="254">
+                            <coordinates>-53.90863,-24.37092,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="256">
+                    <name>CHRISTIHAN WUTZKE</name>
+                    <Placemark id="258">
+                        <name>Aviário 137 - Núcleo 8.0</name>
+                        <description>Número do Núcleo: 8.0
+Aviário: 137
+Proprietário: CHRISTIHAN WUTZKE
+Coordenadas: -24.346687,-54.013184
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.346687,-54.013184</description>
+                        <Point id="257">
+                            <coordinates>-54.013184,-24.346687,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="259">
+                    <name>SANDRO ANDRE RICHTER</name>
+                    <Placemark id="261">
+                        <name>Aviário 142 - Núcleo 145.0</name>
+                        <description>Número do Núcleo: 145.0
+Aviário: 142
+Proprietário: SANDRO ANDRE RICHTER
+Coordenadas: -24.414139,-53.977042
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.414139,-53.977042</description>
+                        <Point id="260">
+                            <coordinates>-53.977042,-24.414139,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="262">
+                <name>ANA</name>
+                <Folder id="263">
+                    <name>SEBASTIAO DAL BOIT</name>
+                    <Placemark id="265">
+                        <name>Aviário 135 - Núcleo 275.0</name>
+                        <description>Número do Núcleo: 275.0
+Aviário: 135
+Proprietário: SEBASTIAO DAL BOIT
+Coordenadas: -24.536028,-53.589139
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.536028,-53.589139</description>
+                        <Point id="264">
+                            <coordinates>-53.589139,-24.536028,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="266">
+                    <name>ADRIANO CEZAR BARBOSA</name>
+                    <Placemark id="268">
+                        <name>Aviário 161 - Núcleo 203.0</name>
+                        <description>Número do Núcleo: 203.0
+Aviário: 161
+Proprietário: ADRIANO CEZAR BARBOSA
+Coordenadas: -24.498139,-53.569028
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.498139,-53.569028</description>
+                        <Point id="267">
+                            <coordinates>-53.569028,-24.498139,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="269">
+                <name>RENAN</name>
+                <Folder id="270">
+                    <name>MARIA ANTONIA DRUZIANI SEBRIAN</name>
+                    <Placemark id="272">
+                        <name>Aviário 136 - Núcleo 175.0</name>
+                        <description>Número do Núcleo: 175.0
+Aviário: 136
+Proprietário: MARIA ANTONIA DRUZIANI SEBRIAN
+Coordenadas: -24.141556,-53.855
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.141556,-53.855</description>
+                        <Point id="271">
+                            <coordinates>-53.855,-24.141556,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="273">
+                    <name>DIRCE MARIA MARIANI CLIVATTI</name>
+                    <Placemark id="275">
+                        <name>Aviário 144 - Núcleo 177.0</name>
+                        <description>Número do Núcleo: 177.0
+Aviário: 144
+Proprietário: DIRCE MARIA MARIANI CLIVATTI
+Coordenadas: -24.089861,-53.835583
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.089861,-53.835583</description>
+                        <Point id="274">
+                            <coordinates>-53.835583,-24.089861,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="277">
+                        <name>Aviário 145 - Núcleo 177.0</name>
+                        <description>Número do Núcleo: 177.0
+Aviário: 145
+Proprietário: DIRCE MARIA MARIANI CLIVATTI
+Coordenadas: -24.089667,-53.835611
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.089667,-53.835611</description>
+                        <Point id="276">
+                            <coordinates>-53.835611,-24.089667,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="278">
+                    <name>VILSON LUIZ PEDRINI</name>
+                    <Placemark id="280">
+                        <name>Aviário 153 - Núcleo 176.0</name>
+                        <description>Número do Núcleo: 176.0
+Aviário: 153
+Proprietário: VILSON LUIZ PEDRINI
+Coordenadas: -24.155667,-53.864389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.155667,-53.864389</description>
+                        <Point id="279">
+                            <coordinates>-53.864389,-24.155667,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="281">
+                <name>RODOLFO</name>
+                <Folder id="282">
+                    <name>LEANDRO FEHMBERGER</name>
+                    <Placemark id="284">
+                        <name>Aviário 139 - Núcleo 82.0</name>
+                        <description>Número do Núcleo: 82.0
+Aviário: 139
+Proprietário: LEANDRO FEHMBERGER
+Coordenadas: -24.195944,-53.901917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.195944,-53.901917</description>
+                        <Point id="283">
+                            <coordinates>-53.901917,-24.195944,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="285">
+                    <name>IVANIR LOURDES BARAZETTI MISSIO</name>
+                    <Placemark id="287">
+                        <name>Aviário 141 - Núcleo 74.0</name>
+                        <description>Número do Núcleo: 74.0
+Aviário: 141
+Proprietário: IVANIR LOURDES BARAZETTI MISSIO
+Coordenadas: -24.236611,-53.876472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.236611,-53.876472</description>
+                        <Point id="286">
+                            <coordinates>-53.876472,-24.236611,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="288">
+                    <name>MARIA VIGNE CENTENARO</name>
+                    <Placemark id="290">
+                        <name>Aviário 156 - Núcleo 92.0</name>
+                        <description>Número do Núcleo: 92.0
+Aviário: 156
+Proprietário: MARIA VIGNE CENTENARO
+Coordenadas: -24.21325,-53.888389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.21325,-53.888389</description>
+                        <Point id="289">
+                            <coordinates>-53.888389,-24.21325,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="291">
+                    <name>MARLENE MANCHINE SOARES</name>
+                    <Placemark id="293">
+                        <name>Aviário 166 - Núcleo 9.0</name>
+                        <description>Número do Núcleo: 9.0
+Aviário: 166
+Proprietário: MARLENE MANCHINE SOARES
+Coordenadas: -24.188344,-54.018936
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.188344,-54.018936</description>
+                        <Point id="292">
+                            <coordinates>-54.018936,-24.188344,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="294">
+                <name>ALTAIR</name>
+                <Folder id="295">
+                    <name>ANDREI BENETTI</name>
+                    <Placemark id="297">
+                        <name>Aviário 143 - Núcleo 27.0</name>
+                        <description>Número do Núcleo: 27.0
+Aviário: 143
+Proprietário: ANDREI BENETTI
+Coordenadas: -24.320833,-53.845056
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320833,-53.845056</description>
+                        <Point id="296">
+                            <coordinates>-53.845056,-24.320833,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="298">
+                    <name>DORVALINO PASTORE</name>
+                    <Placemark id="300">
+                        <name>Aviário 155 - Núcleo 51.0</name>
+                        <description>Número do Núcleo: 51.0
+Aviário: 155
+Proprietário: DORVALINO PASTORE
+Coordenadas: -24.3055,-53.847
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.3055,-53.847</description>
+                        <Point id="299">
+                            <coordinates>-53.847,-24.3055,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="301">
+                    <name>TERESA APARECIDA BUCALAO PATEL</name>
+                    <Placemark id="303">
+                        <name>Aviário 162 - Núcleo 33.0</name>
+                        <description>Número do Núcleo: 33.0
+Aviário: 162
+Proprietário: TERESA APARECIDA BUCALAO PATEL
+Coordenadas: -24.351074,-53.854158
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351074,-53.854158</description>
+                        <Point id="302">
+                            <coordinates>-53.854158,-24.351074,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="304">
+                    <name>LUIS CARLOS MIOTTO</name>
+                    <Placemark id="306">
+                        <name>Aviário 170 - Núcleo 88.0</name>
+                        <description>Número do Núcleo: 88.0
+Aviário: 170
+Proprietário: LUIS CARLOS MIOTTO
+Coordenadas: -24.309889,-53.861556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.309889,-53.861556</description>
+                        <Point id="305">
+                            <coordinates>-53.861556,-24.309889,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder id="307">
+                <name>CARLOS</name>
+                <Folder id="308">
+                    <name>RONALDO AUGUSTO IORIS</name>
+                    <Placemark id="310">
+                        <name>Aviário 147 - Núcleo 111.0</name>
+                        <description>Número do Núcleo: 111.0
+Aviário: 147
+Proprietário: RONALDO AUGUSTO IORIS
+Coordenadas: -24.35225,-53.709472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.35225,-53.709472</description>
+                        <Point id="309">
+                            <coordinates>-53.709472,-24.35225,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                    <Placemark id="312">
+                        <name>Aviário 148 - Núcleo 111.0</name>
+                        <description>Número do Núcleo: 111.0
+Aviário: 148
+Proprietário: RONALDO AUGUSTO IORIS
+Coordenadas: -24.352417,-53.709194
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.352417,-53.709194</description>
+                        <Point id="311">
+                            <coordinates>-53.709194,-24.352417,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder id="313">
+                    <name>MARCELI NEIVA MOELLER LAUFER</name>
+                    <Placemark id="315">
+                        <name>Aviário 159 - Núcleo 402.0</name>
+                        <description>Número do Núcleo: 402.0
+Aviário: 159
+Proprietário: MARCELI NEIVA MOELLER LAUFER
+Coordenadas: -24.370833,-53.7505
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.370833,-53.7505</description>
+                        <Point id="314">
+                            <coordinates>-53.7505,-24.370833,0.0</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder id="316">
+            <name>MICRORREGIÕES</name>
+            <Folder id="317">
+                <name>TRX06</name>
+                <Placemark id="319">
+                    <name>Núcleo 8.0 - CHRISTIHAN WUTZKE</name>
+                    <description>Número do Núcleo: 8.0
+Aviários: 137
+Proprietário: CHRISTIHAN WUTZKE
+Coordenadas: -24.346687,-54.013184
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.346687,-54.013184</description>
+                    <Point id="318">
+                        <coordinates>-54.013184,-24.346687,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="320">
+                <name>TRX01</name>
+                <Placemark id="322">
+                    <name>Núcleo 9.0 - MARLENE MANCHINE SOARES</name>
+                    <description>Número do Núcleo: 9.0
+Aviários: 166
+Proprietário: MARLENE MANCHINE SOARES
+Coordenadas: -24.188344,-54.018936
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.188344,-54.018936</description>
+                    <Point id="321">
+                        <coordinates>-54.018936,-24.188344,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="323">
+                <name>PNA02</name>
+                <Placemark id="325">
+                    <name>Núcleo 19.0 - ACELINO LORENZETTI</name>
+                    <description>Número do Núcleo: 19.0
+Aviários: 151, 152
+Proprietário: ACELINO LORENZETTI
+Coordenadas: -24.255222,-53.823917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.255222,-53.823917</description>
+                    <Point id="324">
+                        <coordinates>-53.823917,-24.255222,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="327">
+                    <name>Núcleo 123.0 - IVETE CANEVESE HENZ</name>
+                    <description>Número do Núcleo: 123.0
+Aviários: 115
+Proprietário: IVETE CANEVESE HENZ
+Coordenadas: -24.218472,-53.825333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218472,-53.825333</description>
+                    <Point id="326">
+                        <coordinates>-53.825333,-24.218472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="328">
+                <name>PNA16</name>
+                <Placemark id="330">
+                    <name>Núcleo 27.0 - ANDREI BENETTI</name>
+                    <description>Número do Núcleo: 27.0
+Aviários: 143
+Proprietário: ANDREI BENETTI
+Coordenadas: -24.320833,-53.845056
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320833,-53.845056</description>
+                    <Point id="329">
+                        <coordinates>-53.845056,-24.320833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="332">
+                    <name>Núcleo 51.0 - DORVALINO PASTORE</name>
+                    <description>Número do Núcleo: 51.0
+Aviários: 155
+Proprietário: DORVALINO PASTORE
+Coordenadas: -24.3055,-53.847
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.3055,-53.847</description>
+                    <Point id="331">
+                        <coordinates>-53.847,-24.3055,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="333">
+                <name>PNA09</name>
+                <Placemark id="335">
+                    <name>Núcleo 30.0 - RENAN AGOSTINI TONDO</name>
+                    <description>Número do Núcleo: 30.0
+Aviários: 160
+Proprietário: RENAN AGOSTINI TONDO
+Coordenadas: -24.261531,-53.772942
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.261531,-53.772942</description>
+                    <Point id="334">
+                        <coordinates>-53.772942,-24.261531,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="337">
+                    <name>Núcleo 121.0 - VALDECIR ANTONIO BENDER</name>
+                    <description>Número do Núcleo: 121.0
+Aviários: 164
+Proprietário: VALDECIR ANTONIO BENDER
+Coordenadas: -24.268972,-53.760889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.268972,-53.760889</description>
+                    <Point id="336">
+                        <coordinates>-53.760889,-24.268972,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="338">
+                <name>PNA13</name>
+                <Placemark id="340">
+                    <name>Núcleo 33.0 - TERESA APARECIDA BUCALAO PATEL</name>
+                    <description>Número do Núcleo: 33.0
+Aviários: 162
+Proprietário: TERESA APARECIDA BUCALAO PATEL
+Coordenadas: -24.351074,-53.854158
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351074,-53.854158</description>
+                    <Point id="339">
+                        <coordinates>-53.854158,-24.351074,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="341">
+                <name>PNA04</name>
+                <Placemark id="343">
+                    <name>Núcleo 46.0 - DARCI KONRAD</name>
+                    <description>Número do Núcleo: 46.0
+Aviários: 157
+Proprietário: DARCI KONRAD
+Coordenadas: -24.233083,-53.785694
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.233083,-53.785694</description>
+                    <Point id="342">
+                        <coordinates>-53.785694,-24.233083,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="345">
+                    <name>Núcleo 55.0 - EDMILSON JOSE ZABOTT</name>
+                    <description>Número do Núcleo: 55.0
+Aviários: 124
+Proprietário: EDMILSON JOSE ZABOTT
+Coordenadas: -24.258801,-53.800703
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.258801,-53.800703</description>
+                    <Point id="344">
+                        <coordinates>-53.800703,-24.258801,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="346">
+                <name>PNA17</name>
+                <Placemark id="348">
+                    <name>Núcleo 50.0 - DENILSO LUPATINI</name>
+                    <description>Número do Núcleo: 50.0
+Aviários: 133
+Proprietário: DENILSO LUPATINI
+Coordenadas: -24.275833,-53.917389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.275833,-53.917389</description>
+                    <Point id="347">
+                        <coordinates>-53.917389,-24.275833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="350">
+                    <name>Núcleo 80.0 - JUAREZ PASTORE</name>
+                    <description>Número do Núcleo: 80.0
+Aviários: 108
+Proprietário: JUAREZ PASTORE
+Coordenadas: -24.278306,-53.900639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.278306,-53.900639</description>
+                    <Point id="349">
+                        <coordinates>-53.900639,-24.278306,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="351">
+                <name>PNA15</name>
+                <Placemark id="353">
+                    <name>Núcleo 62.0 - ETELVINO BENETTI</name>
+                    <description>Número do Núcleo: 62.0
+Aviários: 123
+Proprietário: ETELVINO BENETTI
+Coordenadas: -24.295417,-53.858917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.295417,-53.858917</description>
+                    <Point id="352">
+                        <coordinates>-53.858917,-24.295417,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="355">
+                    <name>Núcleo 88.0 - LUIS CARLOS MIOTTO</name>
+                    <description>Número do Núcleo: 88.0
+Aviários: 170
+Proprietário: LUIS CARLOS MIOTTO
+Coordenadas: -24.309889,-53.861556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.309889,-53.861556</description>
+                    <Point id="354">
+                        <coordinates>-53.861556,-24.309889,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="356">
+                <name>PNA12</name>
+                <Placemark id="358">
+                    <name>Núcleo 71.0 - IVAIR DREON</name>
+                    <description>Número do Núcleo: 71.0
+Aviários: 140
+Proprietário: IVAIR DREON
+Coordenadas: -24.350472,-53.817944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.350472,-53.817944</description>
+                    <Point id="357">
+                        <coordinates>-53.817944,-24.350472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="360">
+                    <name>Núcleo 95.0 - MARLI RICHTER KAPPES</name>
+                    <description>Número do Núcleo: 95.0
+Aviários: 150
+Proprietário: MARLI RICHTER KAPPES
+Coordenadas: -24.342194,-53.824333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.342194,-53.824333</description>
+                    <Point id="359">
+                        <coordinates>-53.824333,-24.342194,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="362">
+                    <name>Núcleo 106.0 - PAULO CEZAR HOFFMANN</name>
+                    <description>Número do Núcleo: 106.0
+Aviários: 102
+Proprietário: PAULO CEZAR HOFFMANN
+Coordenadas: -24.351361,-53.814306
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.351361,-53.814306</description>
+                    <Point id="361">
+                        <coordinates>-53.814306,-24.351361,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="363">
+                <name>PNA20</name>
+                <Placemark id="365">
+                    <name>Núcleo 74.0 - IVANIR LOURDES BARAZETTI MISSIO</name>
+                    <description>Número do Núcleo: 74.0
+Aviários: 141
+Proprietário: IVANIR LOURDES BARAZETTI MISSIO
+Coordenadas: -24.236611,-53.876472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.236611,-53.876472</description>
+                    <Point id="364">
+                        <coordinates>-53.876472,-24.236611,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="366">
+                <name>PNA26</name>
+                <Placemark id="368">
+                    <name>Núcleo 82.0 - LEANDRO FEHMBERGER</name>
+                    <description>Número do Núcleo: 82.0
+Aviários: 139
+Proprietário: LEANDRO FEHMBERGER
+Coordenadas: -24.195944,-53.901917
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.195944,-53.901917</description>
+                    <Point id="367">
+                        <coordinates>-53.901917,-24.195944,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="369">
+                <name>PNA21</name>
+                <Placemark id="371">
+                    <name>Núcleo 92.0 - MARIA VIGNE CENTENARO</name>
+                    <description>Número do Núcleo: 92.0
+Aviários: 156
+Proprietário: MARIA VIGNE CENTENARO
+Coordenadas: -24.21325,-53.888389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.21325,-53.888389</description>
+                    <Point id="370">
+                        <coordinates>-53.888389,-24.21325,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="372">
+                <name>PNA10</name>
+                <Placemark id="374">
+                    <name>Núcleo 96.0 - MERCIO FRANCISCO PALUDO</name>
+                    <description>Número do Núcleo: 96.0
+Aviários: 110, 111
+Proprietário: MERCIO FRANCISCO PALUDO
+Coordenadas: -24.306833,-53.793417
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.306833,-53.793417</description>
+                    <Point id="373">
+                        <coordinates>-53.793417,-24.306833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="375">
+                <name>PNA01</name>
+                <Placemark id="377">
+                    <name>Núcleo 101.0 - NEODIR PALUDO</name>
+                    <description>Número do Núcleo: 101.0
+Aviários: 154
+Proprietário: NEODIR PALUDO
+Coordenadas: -24.213806,-53.842556
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.213806,-53.842556</description>
+                    <Point id="376">
+                        <coordinates>-53.842556,-24.213806,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="378">
+                <name>PNA24</name>
+                <Placemark id="380">
+                    <name>Núcleo 111.0 - RONALDO AUGUSTO IORIS</name>
+                    <description>Número do Núcleo: 111.0
+Aviários: 147, 148
+Proprietário: RONALDO AUGUSTO IORIS
+Coordenadas: -24.35225,-53.709472
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.35225,-53.709472</description>
+                    <Point id="379">
+                        <coordinates>-53.709472,-24.35225,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="381">
+                <name>PNA06</name>
+                <Placemark id="383">
+                    <name>Núcleo 118.0 - FERNANDA BASSO BERTOLDI</name>
+                    <description>Número do Núcleo: 118.0
+Aviários: 112
+Proprietário: FERNANDA BASSO BERTOLDI
+Coordenadas: -24.218307,-53.776036
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.218307,-53.776036</description>
+                    <Point id="382">
+                        <coordinates>-53.776036,-24.218307,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="384">
+                <name>PNA23</name>
+                <Placemark id="386">
+                    <name>Núcleo 122.0 - VALDECIR PATEL</name>
+                    <description>Número do Núcleo: 122.0
+Aviários: 158
+Proprietário: VALDECIR PATEL
+Coordenadas: -24.237222,-53.863083
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.237222,-53.863083</description>
+                    <Point id="385">
+                        <coordinates>-53.863083,-24.237222,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="387">
+                <name>NSR05</name>
+                <Placemark id="389">
+                    <name>Núcleo 142.0 - PEDRO INACIO KUNZLER</name>
+                    <description>Número do Núcleo: 142.0
+Aviários: 131
+Proprietário: PEDRO INACIO KUNZLER
+Coordenadas: -24.37092,-53.90863
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.37092,-53.90863</description>
+                    <Point id="388">
+                        <coordinates>-53.90863,-24.37092,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="390">
+                <name>NSR02</name>
+                <Placemark id="392">
+                    <name>Núcleo 145.0 - SANDRO ANDRE RICHTER</name>
+                    <description>Número do Núcleo: 145.0
+Aviários: 142
+Proprietário: SANDRO ANDRE RICHTER
+Coordenadas: -24.414139,-53.977042
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.414139,-53.977042</description>
+                    <Point id="391">
+                        <coordinates>-53.977042,-24.414139,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="393">
+                <name>IPR08</name>
+                <Placemark id="395">
+                    <name>Núcleo 175.0 - MARIA ANTONIA DRUZIANI SEBRIAN</name>
+                    <description>Número do Núcleo: 175.0
+Aviários: 136
+Proprietário: MARIA ANTONIA DRUZIANI SEBRIAN
+Coordenadas: -24.141556,-53.855
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.141556,-53.855</description>
+                    <Point id="394">
+                        <coordinates>-53.855,-24.141556,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="397">
+                    <name>Núcleo 176.0 - VILSON LUIZ PEDRINI</name>
+                    <description>Número do Núcleo: 176.0
+Aviários: 153
+Proprietário: VILSON LUIZ PEDRINI
+Coordenadas: -24.155667,-53.864389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.155667,-53.864389</description>
+                    <Point id="396">
+                        <coordinates>-53.864389,-24.155667,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="398">
+                <name>IPR07</name>
+                <Placemark id="400">
+                    <name>Núcleo 177.0 - DIRCE MARIA MARIANI CLIVATTI</name>
+                    <description>Número do Núcleo: 177.0
+Aviários: 144, 145
+Proprietário: DIRCE MARIA MARIANI CLIVATTI
+Coordenadas: -24.089861,-53.835583
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.089861,-53.835583</description>
+                    <Point id="399">
+                        <coordinates>-53.835583,-24.089861,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="401">
+                <name>ASS32</name>
+                <Placemark id="403">
+                    <name>Núcleo 186.0 - CLARICE SALETE LORENZINI</name>
+                    <description>Número do Núcleo: 186.0
+Aviários: 122
+Proprietário: CLARICE SALETE LORENZINI
+Coordenadas: -24.326361,-53.662333
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.326361,-53.662333</description>
+                    <Point id="402">
+                        <coordinates>-53.662333,-24.326361,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="405">
+                    <name>Núcleo 204.0 - CASTILLO LUIZ HENDGES</name>
+                    <description>Número do Núcleo: 204.0
+Aviários: 129, 130
+Proprietário: CASTILLO LUIZ HENDGES
+Coordenadas: -24.320417,-53.66775
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.320417,-53.66775</description>
+                    <Point id="404">
+                        <coordinates>-53.66775,-24.320417,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="407">
+                    <name>Núcleo 237.0 - JOSE CARLOS PIRES DOS SANTOS</name>
+                    <description>Número do Núcleo: 237.0
+Aviários: 113
+Proprietário: JOSE CARLOS PIRES DOS SANTOS
+Coordenadas: -24.319144,-53.6737
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.319144,-53.6737</description>
+                    <Point id="406">
+                        <coordinates>-53.6737,-24.319144,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="408">
+                <name>ASS07</name>
+                <Placemark id="410">
+                    <name>Núcleo 189.0 - ALBINO DALMOLIN FILHO</name>
+                    <description>Número do Núcleo: 189.0
+Aviários: 121
+Proprietário: ALBINO DALMOLIN FILHO
+Coordenadas: -24.328511,-53.682092
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.328511,-53.682092</description>
+                    <Point id="409">
+                        <coordinates>-53.682092,-24.328511,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="412">
+                    <name>Núcleo 268.0 - JEAN CARLOS BOTTINI</name>
+                    <description>Número do Núcleo: 268.0
+Aviários: 120
+Proprietário: JEAN CARLOS BOTTINI
+Coordenadas: -24.32438,-53.68987
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.32438,-53.68987</description>
+                    <Point id="411">
+                        <coordinates>-53.68987,-24.32438,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="413">
+                <name>ASS17</name>
+                <Placemark id="415">
+                    <name>Núcleo 193.0 - AMAURI EGEA DA COSTA</name>
+                    <description>Número do Núcleo: 193.0
+Aviários: 117
+Proprietário: AMAURI EGEA DA COSTA
+Coordenadas: -24.490472,-53.518889
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.490472,-53.518889</description>
+                    <Point id="414">
+                        <coordinates>-53.518889,-24.490472,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="416">
+                <name>ASS27</name>
+                <Placemark id="418">
+                    <name>Núcleo 203.0 - ADRIANO CEZAR BARBOSA</name>
+                    <description>Número do Núcleo: 203.0
+Aviários: 161
+Proprietário: ADRIANO CEZAR BARBOSA
+Coordenadas: -24.498139,-53.569028
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.498139,-53.569028</description>
+                    <Point id="417">
+                        <coordinates>-53.569028,-24.498139,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="419">
+                <name>ASS15</name>
+                <Placemark id="421">
+                    <name>Núcleo 211.0 - CLELIO ARGENTON</name>
+                    <description>Número do Núcleo: 211.0
+Aviários: 107
+Proprietário: CLELIO ARGENTON
+Coordenadas: -24.4163,-53.544539
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.4163,-53.544539</description>
+                    <Point id="420">
+                        <coordinates>-53.544539,-24.4163,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="423">
+                    <name>Núcleo 343.0 - NICOLA CARMONA CABRERA</name>
+                    <description>Número do Núcleo: 343.0
+Aviários: 114
+Proprietário: NICOLA CARMONA CABRERA
+Coordenadas: -24.411389,-53.5475
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.411389,-53.5475</description>
+                    <Point id="422">
+                        <coordinates>-53.5475,-24.411389,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="424">
+                <name>ASS16</name>
+                <Placemark id="426">
+                    <name>Núcleo 252.0 - APARECIDO ROBERTO DIOTTO</name>
+                    <description>Número do Núcleo: 252.0
+Aviários: 118
+Proprietário: APARECIDO ROBERTO DIOTTO
+Coordenadas: -24.451972,-53.49175
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.451972,-53.49175</description>
+                    <Point id="425">
+                        <coordinates>-53.49175,-24.451972,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="427">
+                <name>ASS18</name>
+                <Placemark id="429">
+                    <name>Núcleo 256.0 - CLEIFSON FERRARI GROSS</name>
+                    <description>Número do Núcleo: 256.0
+Aviários: 163, 168
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.388028,-53.490944
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.388028,-53.490944</description>
+                    <Point id="428">
+                        <coordinates>-53.490944,-24.388028,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="430">
+                <name>ASS02</name>
+                <Placemark id="432">
+                    <name>Núcleo 271.0 - RODRIGO ZOTESSO</name>
+                    <description>Número do Núcleo: 271.0
+Aviários: 134
+Proprietário: RODRIGO ZOTESSO
+Coordenadas: -24.496964,-53.676017
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.496964,-53.676017</description>
+                    <Point id="431">
+                        <coordinates>-53.676017,-24.496964,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="433">
+                <name>ASS28</name>
+                <Placemark id="435">
+                    <name>Núcleo 275.0 - SEBASTIAO DAL BOIT</name>
+                    <description>Número do Núcleo: 275.0
+Aviários: 135
+Proprietário: SEBASTIAO DAL BOIT
+Coordenadas: -24.536028,-53.589139
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.536028,-53.589139</description>
+                    <Point id="434">
+                        <coordinates>-53.589139,-24.536028,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="436">
+                <name>ASS04</name>
+                <Placemark id="438">
+                    <name>Núcleo 282.0 - CLEIFSON FERRARI GROSS</name>
+                    <description>Número do Núcleo: 282.0
+Aviários: 125, 126
+Proprietário: CLEIFSON FERRARI GROSS
+Coordenadas: -24.481769,-53.676989
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.481769,-53.676989</description>
+                    <Point id="437">
+                        <coordinates>-53.676989,-24.481769,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="439">
+                <name>MRP06</name>
+                <Placemark id="441">
+                    <name>Núcleo 287.0 - ADEMIR SCHREIBER</name>
+                    <description>Número do Núcleo: 287.0
+Aviários: 165
+Proprietário: ADEMIR SCHREIBER
+Coordenadas: -24.442639,-53.800639
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.442639,-53.800639</description>
+                    <Point id="440">
+                        <coordinates>-53.800639,-24.442639,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="443">
+                    <name>Núcleo 293.0 - BERNARDO MARIO PASTORE</name>
+                    <description>Número do Núcleo: 293.0
+Aviários: 104
+Proprietário: BERNARDO MARIO PASTORE
+Coordenadas: -24.450853,-53.785362
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.450853,-53.785362</description>
+                    <Point id="442">
+                        <coordinates>-53.785362,-24.450853,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="444">
+                <name>MRP07</name>
+                <Placemark id="446">
+                    <name>Núcleo 289.0 - ADIR MARLOW</name>
+                    <description>Número do Núcleo: 289.0
+Aviários: 103
+Proprietário: ADIR MARLOW
+Coordenadas: -24.482931,-53.764711
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.482931,-53.764711</description>
+                    <Point id="445">
+                        <coordinates>-53.764711,-24.482931,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="448">
+                    <name>Núcleo 327.0 - SEDIANE FATIMA GASPARETTO</name>
+                    <description>Número do Núcleo: 327.0
+Aviários: 167
+Proprietário: SEDIANE FATIMA GASPARETTO
+Coordenadas: -24.486633,-53.792675
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.486633,-53.792675</description>
+                    <Point id="447">
+                        <coordinates>-53.792675,-24.486633,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="449">
+                <name>MRP03</name>
+                <Placemark id="451">
+                    <name>Núcleo 305.0 - HEBE CRISTIANE SCHWARZ WARMLING</name>
+                    <description>Número do Núcleo: 305.0
+Aviários: 149
+Proprietário: HEBE CRISTIANE SCHWARZ WARMLING
+Coordenadas: -24.413167,-53.801389
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.413167,-53.801389</description>
+                    <Point id="450">
+                        <coordinates>-53.801389,-24.413167,0.0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark id="453">
+                    <name>Núcleo 312.0 - LEVI MARTINHO HARTWIG</name>
+                    <description>Número do Núcleo: 312.0
+Aviários: 105
+Proprietário: LEVI MARTINHO HARTWIG
+Coordenadas: -24.410856,-53.791825
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.410856,-53.791825</description>
+                    <Point id="452">
+                        <coordinates>-53.791825,-24.410856,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="454">
+                <name>MRP09</name>
+                <Placemark id="456">
+                    <name>Núcleo 310.0 - JOSE ELIAS PANDINI</name>
+                    <description>Número do Núcleo: 310.0
+Aviários: 101
+Proprietário: JOSE ELIAS PANDINI
+Coordenadas: -24.519303,-53.735319
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.519303,-53.735319</description>
+                    <Point id="455">
+                        <coordinates>-53.735319,-24.519303,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="457">
+                <name>MRP02</name>
+                <Placemark id="459">
+                    <name>Núcleo 313.0 - MARTIM ROGERIO REINKE</name>
+                    <description>Número do Núcleo: 313.0
+Aviários: 138
+Proprietário: MARTIM ROGERIO REINKE
+Coordenadas: -24.385194,-53.823611
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.385194,-53.823611</description>
+                    <Point id="458">
+                        <coordinates>-53.823611,-24.385194,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="460">
+                <name>MRP11</name>
+                <Placemark id="462">
+                    <name>Núcleo 326.0 - JAIR VANDERLEI SEIBOTH</name>
+                    <description>Número do Núcleo: 326.0
+Aviários: 132
+Proprietário: JAIR VANDERLEI SEIBOTH
+Coordenadas: -24.466668,-53.889904
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.466668,-53.889904</description>
+                    <Point id="461">
+                        <coordinates>-53.889904,-24.466668,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+            <Folder id="463">
+                <name>MRP05</name>
+                <Placemark id="465">
+                    <name>Núcleo 402.0 - MARCELI NEIVA MOELLER LAUFER</name>
+                    <description>Número do Núcleo: 402.0
+Aviários: 159
+Proprietário: MARCELI NEIVA MOELLER LAUFER
+Coordenadas: -24.370833,-53.7505
+Link Google Maps: https://www.google.com/maps/search/?api=1&amp;query=-24.370833,-53.7505</description>
+                    <Point id="464">
+                        <coordinates>-53.7505,-24.370833,0.0</coordinates>
+                    </Point>
+                </Placemark>
+            </Folder>
+        </Folder>
+    </Document>
+</kml>
