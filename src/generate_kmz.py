@@ -53,9 +53,9 @@ class KMLGenerator:
             municipio_data = df_grouped[df_grouped["municipio"] == municipio]
             for index, row in municipio_data.iterrows():
                 lat, lon = map(float, row["coordenadas"].split(','))
-                pnt = mun_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
-                pnt.style.iconstyle.scale = 0.9
-                pnt.style.labelstyle.scale = 0.9
+                pnt = mun_folder.newpoint(name=f"N{row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
+                pnt.style.iconstyle.scale = 0.8
+                pnt.style.labelstyle.scale = 0.8
                 aviarios_str = ", ".join(map(str, row['aviario']))
                 pnt.description = (
                     f"Número do Núcleo: {row['numero_nucleo']}\n"
@@ -78,18 +78,27 @@ class KMLGenerator:
                     continue
                 prop_folder = tec_folder.newfolder(name=str(proprietario))
                 proprietario_data = tecnico_data[tecnico_data["nome_proprietario"] == proprietario]
-                nucleos_unicos = proprietario_data.drop_duplicates(subset=["numero_nucleo"])
-                for index, row in nucleos_unicos.iterrows():
-                    lat, lon = map(float, row["coordenadas"].split(','))
-                    pnt = prop_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
-                    pnt.style.iconstyle.scale = 0.9
-                    pnt.style.labelstyle.scale = 0.9
+                
+                # Group by numero_nucleo to get all aviaries for each nucleus
+                grouped_by_nucleo = proprietario_data.groupby("numero_nucleo")
+                
+                for numero_nucleo, nucleo_group in grouped_by_nucleo:
+                    # Get the first row of the group for common information
+                    first_row = nucleo_group.iloc[0]
+                    lat, lon = map(float, first_row["coordenadas"].split(','))
+                    
+                    # Collect all aviaries for this nucleus
+                    aviarios_str = ", ".join(map(str, nucleo_group["aviario"].unique()))
+                    
+                    pnt = prop_folder.newpoint(name=f"N{first_row['numero_nucleo']} - {first_row['nome_proprietario']}", coords=[(lon, lat)])
+                    pnt.style.iconstyle.scale = 0.8
+                    pnt.style.labelstyle.scale = 0.8
                     pnt.description = (
-                        f"Número do Núcleo: {row['numero_nucleo']}\n"
-                        f"Aviário: {row['aviario']}\n"
-                        f"Proprietário: {row['nome_proprietario']}\n"
-                        f"Coordenadas: {row['coordenadas']}\n"
-                        f"Link Google Maps: {row['google_maps_link']}"
+                        f"Número do Núcleo: {first_row['numero_nucleo']}\n"
+                        f"Aviários: {aviarios_str}\n"
+                        f"Proprietário: {first_row['nome_proprietario']}\n"
+                        f"Coordenadas: {first_row['coordenadas']}\n"
+                        f"Link Google Maps: {first_row['google_maps_link']}"
                     )
 
     def _create_microrregioes_folder(self, kml, df_grouped):
@@ -102,9 +111,9 @@ class KMLGenerator:
             microrregiao_data = df_grouped[df_grouped["microrregiao"] == microrregiao]
             for index, row in microrregiao_data.iterrows():
                 lat, lon = map(float, row["coordenadas"].split(','))
-                pnt = micro_folder.newpoint(name=f"Núcleo {row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
-                pnt.style.iconstyle.scale = 0.9
-                pnt.style.labelstyle.scale = 0.9
+                pnt = micro_folder.newpoint(name=f"N{row['numero_nucleo']} - {row['nome_proprietario']}", coords=[(lon, lat)])
+                pnt.style.iconstyle.scale = 0.8
+                pnt.style.labelstyle.scale = 0.8
                 aviarios_str = ", ".join(map(str, row['aviario']))
                 pnt.description = (
                     f"Número do Núcleo: {row['numero_nucleo']}\n"
